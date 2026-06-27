@@ -21,3 +21,11 @@ npm install result-type
 ## License
 
 MIT
+
+
+## Usage
+
+```typescript
+import { } from 'result-type';
+// See API section for available functions
+```
